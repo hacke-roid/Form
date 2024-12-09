@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "f2f5",
+      "username": "kishan",
+      "password": "kishanurankar",
+      "confirmPassword": "kishanurankar"
+    },
+    {
+      "id": "844d",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phoneNumber": "",
+      "age": "",
+      "password": "",
+      "confirmPassword": "",
+      "gender": "",
+      "skills": [],
+      "birthDate": ""
+    }
+  ]
+}
